@@ -4,6 +4,4 @@ I am passionate about creating things and love learning new ways to do things. H
 
 If you are looking for help with Opera GX mods, start [here](https://github.com/mr-jamz/opera-gx-mods)<br>
 
-TryHackMe progress:
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5716850" style='border:none;'></iframe>
+[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5716850" style='border:none;'></iframe>]
